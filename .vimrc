@@ -2,7 +2,8 @@ set encoding=iso-8859-1
 set fileencodings=iso-8859-1
 set number
 "colorscheme fruity
-colorscheme slate
+"colorscheme slate
+colorscheme solarized 
 set tabstop=4
 set shiftwidth=4
 set autoindent
@@ -12,7 +13,8 @@ set clipboard=unnamed
 set linebreak
 set number
 set ruler
-set guifont=consolas:h11
+"set guifont=consolas:h11
+set guifont=Courier_New:h12:b
 set lines=30 columns=120
 
 set guioptions-=m
